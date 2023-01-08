@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit Kumar , @ak4302392
 - 👀 I’m interested in full stack developement.
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning UI/UX design.
 - 💞️ I’m looking to collaborate on any exciting project with MERN stack
 - 📫 How to reach me ... ak4302392@gmail.com , 8319535754, 
 
